@@ -25,3 +25,5 @@ the glass background is your wallpaper blurred, read from `awww query` / `swww q
 size, corner, colour, font etc are #defines at the top of spotglass.c
 
 ![Example](./screenshots/example_pic.png)
+
+Note: assisted and barely tested, don't trust it till next update
