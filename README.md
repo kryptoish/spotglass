@@ -14,7 +14,7 @@ usage:
     spotglass --quit        close it
     right-click the widget  close it
 
-bind `spotglass` to a key, e.g. sway: `bindsym Ctrl+Alt+m exec spotglass`
+bind `spotglass` to a key, e.g. mango: `bind=CTRL+ALT,m,spawn,spotglass`
 
 to have it come up with spotify, launch spotify like this:
 
